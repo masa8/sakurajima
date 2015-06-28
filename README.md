@@ -16,9 +16,9 @@
  git clone git@github.com:masa8/sakurajima.git
 
 ##Terms of use
- Using AITC API(http://api.aitc.jp) for getting data.  
+ This source code is depend on a Sparql end point provided by AITC(http://api.aitc.jp).    
  If you want to use this source, please check AITC's terms of use.  
- Getting data from their endpoint is trial use only.  
+ Getting data by  their endpoint is trial use only.  
 
 ##License
  MIT
