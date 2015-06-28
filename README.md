@@ -1,6 +1,6 @@
 
 #SAKURAJIMA
-<img src="image.jpg" alt="sakurajima" style="width: 100px;" />
+<img src="image.jpg" alt="sakurajima" style="width: 50px;" />
 ##Features
  Turns The LED On When Sakurajima Volcano Erupts
 
