@@ -19,7 +19,7 @@
  Pin 25 should go to the longer leg of LED.  
  Attach the shorter leg of the led to the ground.  
 
-<img src="sakurajima_hard.png" alt="hard" width="300" />
+<img src="sakurajima_hard.png" alt="hard" width="600" />
 
 
 ##Terms of use
