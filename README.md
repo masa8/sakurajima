@@ -17,7 +17,7 @@
 
 ##Hardware Setup
  Pin 25 should go to the longer leg of LED.  
- Attach the shorter leg of the led to the ground.  
+ Attach the shorter leg of the LED to the ground.  
 
 <img src="sakurajima_hard.png" alt="hard" width="600" />
 
