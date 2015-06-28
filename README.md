@@ -15,6 +15,13 @@
 ##Install 
  git clone git@github.com:masa8/sakurajima.git
 
+##Hardware Setup
+ Pin 25 should go to the longer leg of LED.  
+ Attach the shorter leg of the led to the ground.  
+
+<img src="sakurajima_hard.png" alt="hard" width="300" />
+
+
 ##Terms of use
  This source code is depend on a Sparql end point provided by AITC(http://api.aitc.jp).    
  If you want to use this source, please check AITC's terms of use.  
