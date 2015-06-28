@@ -21,6 +21,10 @@
 
 <img src="sakurajima_hard.png" alt="hard" width="600" />
 
+##Run
+ sudo su  
+ cd sakurajima  
+ ruby sakurajima_checker.rb  
 
 ##Terms of use
  This source code is depend on a Sparql end point provided by AITC(http://api.aitc.jp).    
