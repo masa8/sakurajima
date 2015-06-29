@@ -1,6 +1,6 @@
 
 #SAKURAJIMA
-<img src="image.jpg" alt="sakurajima" width="300" />
+<img src="images/image.jpg" alt="sakurajima" width="300" />
 ##Features
  Turns The LED On When Sakurajima Volcano Erupts
 
@@ -19,7 +19,9 @@
  Pin 25 should go to the longer leg of LED.  
  Attach the shorter leg of the LED to the ground.  
 
-<img src="sakurajima_hard.png" alt="hard" width="600" />
+<img src="images/sakurajima_hard.png" alt="hard" width="600" />
+##3DPrint
+ 3D-printing model/sakurajima_fix_mini.stl
 
 ##Run
  sudo su  
